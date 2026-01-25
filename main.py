@@ -173,7 +173,7 @@ async def embedded_msg(interaction: discord.Interaction):
 
     await interaction.response.send_message(embed=embed, view=view)
 
-@bot.tree.command(name="testdb", description="send a query to the database", guild=guild)
+@bot.tree.command(name="testdb", description="send a query to the database")
 async def testdb(interaction: discord.Interaction):
     user_id = interaction.user.id
 
