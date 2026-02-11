@@ -1,5 +1,5 @@
-# DCBOT
+# DUET
 will constantly update this
 lol
 ---
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+my bot made in some ugly ass bot maker LOL now remaking it in Python
